@@ -1,0 +1,1 @@
+Este é o primeiro projeto do evento intensivo de JavaScript ministrado pela educadora hashtag programação, se trata de um audio-book do livro Dom Casmurro, utilizando o elemento audio e adicionando funcionalidades a ele com JavaScript. Serão quatro projetos práticos para o desenvolvimento de habilidades em JavaScript. Adicionarei mais repositórios nas próximas aulas.
