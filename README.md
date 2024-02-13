@@ -1,7 +1,7 @@
 ![GiF](https://media.tenor.com/9v7mL2wFGugAAAAM/%D1%81%D1%8B%D1%81.gif)
 
 # 📕🎶🎧 AudioBook:
-Este é o primeiro projeto do evento intensivo de JavaScript ministrado pela educadora hashtag programação, se trata de um audio-book do livro Dom Casmurro, utilizando o elemento audio e adicionando funcionalidades a ele com JavaScript. Serão quatro projetos práticos para o desenvolvimento de habilidades em JavaScript. Adicionarei mais repositórios nas próximas aulas.
+Este é o primeiro projeto do evento intensivo de JavaScript ministrado pela educadora hashtag programação, se trata de um audio-book do livro Dom Casmurro, utilizando o elemento audio e adicionando funcionalidades a ele com JavaScript. Serão quatro projetos práticos fornecidos pela empresa para o desenvolvimento de habilidades em JavaScript, porém adicionei apenas dois para não ser desleal ao meu nível atual de conhecimento. Adicionarei mais commits com o tempo.
 
 
 ## 🌐 Redes Sociais:
